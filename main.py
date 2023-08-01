@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, CallbackQueryHandler, ConversationHandler
 
 
-TOKEN="6617959559:AAFJBu8APBpn0byCwPW-Tz86-G8H60-SxEU"
+TOKEN="Your Token "
 BOT_USERNAME = "@RMKChatBot"
 
 subjects_to_files = {
